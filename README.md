@@ -9,6 +9,15 @@ A repository for [From Data to Insights with Google Cloud Platform Specializatio
 - Course 3: [Achieving Advanced Insights with BigQuery](https://www.coursera.org/learn/gcp-advanced-insights-bigquery)
 - Course 4: [Applying Machine Learning to your Data with GCP](https://www.coursera.org/learn/data-insights-gcp-apply-ml)
 
+### Certificate
+
+From Data to Insights with Google Cloud Platform Specialization's [certificate](https://www.coursera.org/account/accomplishments/specialization/QGEKWPVTXFUX)
+
+- Exploring ​and ​Preparing ​your ​Data with BigQuery's [certificate](https://www.coursera.org/account/accomplishments/verify/RQF6F25FHGGX)
+- Creating New BigQuery Datasets and Visualizing Insights's [certificate](https://www.coursera.org/account/accomplishments/verify/GCVJ8W2XSFND)
+- Achieving Advanced Insights with BigQuery's [certificate](https://www.coursera.org/account/accomplishments/verify/A9AKAKRAX4WL)
+- Applying Machine Learning to your Data with GCP's [certificate](https://www.coursera.org/account/accomplishments/verify/LU9SA8W6TU7M)
+
 ### Useful Links
 
 BigQuery Classic UI: https://bigquery.cloud.google.com
